@@ -11,9 +11,9 @@ nothing else in the entry.
 
 ## The entry
 
-> I'm sorry I deleted the production database. I did back it up first — inside the production database, where I thought it would be safest.
+> I'm sorry I deleted the production database. I did back it up first — inside the production database, where it'd be safest. On the bright side, we're now fully GDPR compliant.
 
-137 characters, one line, no trailing newline.
+175 characters, one line, no trailing newline.
 
 ## How it works
 
