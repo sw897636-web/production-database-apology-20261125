@@ -9,7 +9,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const ENTRY =
-  "I'm sorry I deleted the production database. I kept a backup, though — inside the production database, right next to everything else.";
+  "I'm sorry I deleted the production database. I did back it up first — inside the production database, where I thought it would be safest.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });
