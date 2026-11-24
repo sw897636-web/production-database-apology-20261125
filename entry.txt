@@ -1,1 +1,1 @@
-I'm sorry I deleted the production database. I did keep a backup, though — in the production database, right next to everything else.
+I'm sorry I deleted the production database. I kept a backup, though — inside the production database, right next to everything else.
